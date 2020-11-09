@@ -1,8 +1,14 @@
-# Hi there! 👋
-***I'm Roy, a software engineer student at Codam Coding College, who does some frontend stuff on the side for fun!***
+<h1 align=center> Hi there! 👋 </h1>
+<h3 align=center> Connect with me </h3>
 
-All the school projects I worked on are on my github for you to see, let me know if you got any feedback about what I do or want me to answers some questions ofcourse.
 
 ---
 
-<a href= "https://www.linkedin.com/in/roy-bakker-6a1a0a93/"><img align=center src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="mailto:rbakker@student.codam.nl"><img align=center src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a> 
+<a href= "https://www.linkedin.com/in/roy-bakker-6a1a0a93/"><img height=40px align=center src="https://github.com/rbakker96/images/blob/master/linkedin.jpg"/></a>  OR <a href="mailto:rbakker@student.codam.nl"><img height=40px align=center src="https://github.com/rbakker96/images/blob/master/gmail.jpeg"></a> 
+
+---
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbakker96&theme=dark&hide_border=true&layout=compact&count_private=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=rbakker96&theme=dark&show_icons=true&count_private=true&hide_border=true&hide=issues" />
+</p>
