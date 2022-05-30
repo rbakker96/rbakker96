@@ -1,7 +1,7 @@
 <h1 align=center> Hi there 👋 </h1>
-<h3 align=center> I'm Roy, a software engineer student at Codam Coding College. <br><br> Connect with me </h3>
+<h3 align=center> I'm Roy, a developer at Betty Blocks. <br><br> Connect with me </h3>
 
-<p align=center> <a href= "https://www.linkedin.com/in/roy-bakker-6a1a0a93/"><img height=30px align=center src="https://github.com/rbakker96/images/blob/master/linkedin.jpg"/></a>  OR <a href="mailto:rbakker@student.codam.nl"><img height=30px align=center src="https://github.com/rbakker96/images/blob/master/gmail.jpeg"></a> </p>
+<p align=center> <a href= "https://www.linkedin.com/in/roy-bakker-6a1a0a93/"><img height=30px align=center src="https://github.com/rbakker96/images/blob/master/linkedin.jpg"/></a>  OR <a href="mailto:roybakker5@gmail.com"><img height=30px align=center src="https://github.com/rbakker96/images/blob/master/gmail.jpeg"></a> </p>
 
 ---
 
